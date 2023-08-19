@@ -1,0 +1,13 @@
+#heading {
+    font-size: 5em;
+    font-weight: bold;
+}
+.general {   
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#intro {
+    font-size: 1.5em;
+    font-weight: 400;
+}
